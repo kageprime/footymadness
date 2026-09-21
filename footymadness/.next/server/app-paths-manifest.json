@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/feed/[key]/route": "app/api/feed/[key]/route.js",
+  "/breakdowns/page": "app/breakdowns/page.js",
+  "/creator/page": "app/creator/page.js",
+  "/debates/[id]/page": "app/debates/[id]/page.js",
+  "/debates/page": "app/debates/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/games/page": "app/games/page.js",
+  "/match/page": "app/match/page.js",
+  "/page": "app/page.js",
+  "/refs/page": "app/refs/page.js",
+  "/sentiment/page": "app/sentiment/page.js",
+  "/styles/page": "app/styles/page.js"
+}

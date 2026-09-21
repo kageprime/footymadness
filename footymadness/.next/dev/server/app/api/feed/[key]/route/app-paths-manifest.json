@@ -1,0 +1,3 @@
+{
+  "/api/feed/[key]/route": "app/api/feed/[key]/route.js"
+}
