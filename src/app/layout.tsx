@@ -18,6 +18,7 @@ export const viewport: Viewport = {
 };
 
 const links = [
+  { href: "/match", label: "Match Centre" },
   { href: "/debates", label: "Fan Hall" },
   { href: "/creator", label: "Creator" },
   { href: "/games", label: "Games" },

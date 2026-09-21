@@ -1,0 +1,16 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/feed/[key]/route": "/api/feed/[key]",
+  "/breakdowns/page": "/breakdowns",
+  "/creator/page": "/creator",
+  "/debates/[id]/page": "/debates/[id]",
+  "/debates/page": "/debates",
+  "/favicon.ico/route": "/favicon.ico",
+  "/games/page": "/games",
+  "/match/page": "/match",
+  "/page": "/",
+  "/refs/page": "/refs",
+  "/sentiment/page": "/sentiment",
+  "/styles/page": "/styles"
+}
